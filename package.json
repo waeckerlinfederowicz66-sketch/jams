@@ -25,7 +25,6 @@
     "algoliasearch": "^5.56.0",
     "fast-levenshtein": "^3.0.0",
     "freezeframe": "^5.0.2",
-    "fs": "^0.0.1-security",
     "gray-matter": "^4.0.3",
     "highlight.js": "^11.11.1",
     "instantsearch.js": "^4.108.0",
